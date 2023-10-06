@@ -28,9 +28,6 @@ or
 yarn start
 ```
 
-If there are additional steps required, follow the instructions in the README.
+Follow the instructions in the README.
 
-## Access the Project
 
-After successfully starting the project, open a web browser and navigate to the URL where the project is running. This is usually `http://localhost:PORT`, where `PORT` is specified in the project's configuration or README.
-```
