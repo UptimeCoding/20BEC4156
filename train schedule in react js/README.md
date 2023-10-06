@@ -32,8 +32,9 @@ Follow the instructions in the README.
 
 ## Screenshots
 
-![App Screenshot]([https://user-images.githubusercontent.com/101408845/273126619-a8583451-1478-4b80-bd17-25bfaba5eac1.png](https://user-images.githubusercontent.com/101408845/273126556-bf38c3c5-0692-4d62-b4b3-56095a538ec5.png))
+![App Screenshot](https://user-images.githubusercontent.com/101408845/273126619-a8583451-1478-4b80-bd17-25bfaba5eac1.png)
 
-![App Screenshot]([https://user-images.githubusercontent.com/101408845/273126548-368cd7f1-db23-4e5c-9905-31128c10d90e.png](https://user-images.githubusercontent.com/101408845/273126548-368cd7f1-db23-4e5c-9905-31128c10d90e.png))
+![App Screenshot](https://user-images.githubusercontent.com/101408845/273126548-368cd7f1-db23-4e5c-9905-31128c10d90e.png)
 
-![App Screenshot]([https://user-images.githubusercontent.com/101408845/273126619-a8583451-1478-4b80-bd17-25bfaba5eac1.png](https://user-images.githubusercontent.com/101408845/273126619-a8583451-1478-4b80-bd17-25bfaba5eac1.png))
+![App Screenshot](https://user-images.githubusercontent.com/101408845/273126619-a8583451-1478-4b80-bd17-25bfaba5eac1.png)
+
