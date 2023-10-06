@@ -34,5 +34,3 @@ If there are additional steps required, follow the instructions in the README.
 
 After successfully starting the project, open a web browser and navigate to the URL where the project is running. This is usually `http://localhost:PORT`, where `PORT` is specified in the project's configuration or README.
 ```
-
-Save this file in your project's root directory as `README.md`. GitHub will automatically recognize it as the README file and display its content when you visit the repository's GitHub page. Make sure to replace the placeholders with your actual project details and instructions.
